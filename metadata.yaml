@@ -1,0 +1,37 @@
+_repo: Les-Francais-peints-par-eux-memes-tome-2-Encyclopedie-morale-du-dix-neuvieme-siecle_60347
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Curmer, L. (Henri Léon)
+    aliases:
+    - Curmer, Henri Léon
+    - Curmer, L. (Henri Leon)
+    - Curmer, Léon
+    birthdate: 1801
+    deathdate: 1870
+    gutenberg_agent_id: '40219'
+    url: http://www.gutenberg.org/2009/agents/40219
+    wikipedia: https://fr.wikipedia.org/wiki/L%C3%A9on_Curmer
+description: ''
+gutenberg_bookshelf:
+- FR Peuples et Sociétés
+- FR Humour
+- FR Nouveautés
+gutenberg_issued: '2019-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60347'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Social life and customs'
+- !lcsh 'Costume -- France'
+- !lcsh 'Paris (France) -- Social life and customs'
+- GITenberg
+title: 'Les Français peints par eux-mêmes, tome 2
+
+  Encyclopédie morale du dix-neuvième siècle'
+url: http://www.gutenberg.org/ebooks/60347
